@@ -8,6 +8,9 @@
 📚 **Sobre Mim**
 
 - Possuo formação técnica em Informática pelo Instituto Federal do Rio Grande do Sul e atualmente curso Análise e Desenvolvimento de Sistemas na Unisinos.
+- Tenho familiaridade com tecnologias como Python, Node.js, JavaScript, HTML, CSS, MySQL e PostgreSQL.
+- Atuei no desenvolvimento de uma solução baseada em inteligência artificial e visão computacional para identificar e contar pragas agrícolas a partir de imagens, integrando-a à plataforma de monitoramento da empresa de biotecnologia BioIn. O projeto utilizou ferramentas como ImageAI (Python) e LabelImg para treinamento e detecção.
+- Me interesso especialmente por desenvolvimento front-end e análise e manipulação de dados.
 - Me adiciona no [LinkedIn](www.linkedin.com/in/gabriela-augustin-2b7558232)
 
 <div align="center">
